@@ -1,0 +1,8 @@
+{
+  "name": "FlightGenius AI Ultimate",
+  "description": "The World's #1 Flight Booking & Management AI. Features Real-time GDS access via Deep Reasoning, Live Price Verification, and Direct Booking Link generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
